@@ -95,7 +95,9 @@ Este proyecto es de código abierto y está disponible para uso personal y educa
 
 ## 🙏 Créditos
 
-Desarrollado con dedicación para acompañar el tiempo de Adviento 2025.
+Una iniciativa de la **[Parroquia de Santa Eugenia](https://santaeugenia.archimadrid.es/grupos-y-catequesis/grupos-y-horarios/)** para acompañar el tiempo de Adviento 2025.
+
+Desarrollado con dedicación para nuestra comunidad parroquial.
 
 ---
 
