@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendario de Adviento 2025 - Peregrinos de la Esperanza</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🕊️ Adviento 2025 🕊️</h1>
+            <h2>Peregrinos de la Esperanza</h2>
+        </header>
+
+        <main>
+            <div class="calendar-display">
+                <div class="current-day">
+                    <h3 id="fecha-actual"></h3>
+                </div>
+
+                <div class="task-card">
+                    <div class="task-content" id="tarea-dia">
+                        <p>Cargando tarea del día...</p>
+                    </div>
+                </div>
+
+                <div class="navigation">
+                    <button id="btn-anterior" class="nav-btn">← Día Anterior</button>
+                    <button id="btn-hoy" class="nav-btn nav-btn-primary">Hoy</button>
+                    <button id="btn-siguiente" class="nav-btn">Día Siguiente →</button>
+                </div>
+            </div>
+
+            <div class="calendar-grid" id="calendario-grid">
+                <!-- Las casillas del calendario se generarán dinámicamente -->
+            </div>
+        </main>
+
+        <footer>
+            <p>✨ Que este Adviento nos prepare para recibir a Jesús ✨</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

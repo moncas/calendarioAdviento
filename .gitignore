@@ -1,0 +1,22 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs y editores
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+*.log
+*.tmp
+.cache/
+
+# Node modules (si en el futuro usas npm)
+node_modules/
+
+# Archivos de sistema de OneDrive
+*.tmp
+~$*
